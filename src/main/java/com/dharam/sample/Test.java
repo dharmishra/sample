@@ -1,4 +1,4 @@
-package com.jio.sample;
+package com.dharam.sample;
 
 import java.io.BufferedReader;
 import java.io.IOException;

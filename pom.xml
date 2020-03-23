@@ -8,7 +8,7 @@
 		<version>2.2.5.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.sample</groupId>
+	<groupId>com.dharam.sample</groupId>
 	<artifactId>sample</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<name>sample</name>

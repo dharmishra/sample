@@ -1,4 +1,4 @@
-package com.jio.sample;
+package com.dharam.sample;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
